@@ -1,0 +1,23 @@
+[
+    {
+        "_iban": "RO12LNK_10001",
+        "first_name": "F_Vasile",
+        "last_name": "L_Popescu",
+        "_amount": 4000,
+        "_Account__limit": 100000,
+        "_transactions_uuids": [],
+        "account_type": 1,
+        "interest": 1
+    },
+    {
+        "_iban": "RO12LNK_10002",
+        "first_name": "F_Gigel",
+        "last_name": "L_Haralambie",
+        "_amount": 0,
+        "_Account__limit": 100000,
+        "_transactions_uuids": [],
+        "account_type": 2,
+        "interest": 15,
+        "_debt": 2000
+    }
+]
